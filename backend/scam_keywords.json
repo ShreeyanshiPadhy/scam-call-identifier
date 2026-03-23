@@ -1,0 +1,9 @@
+{
+  "otp": 5,
+  "urgent": 3,
+  "account blocked": 4,
+  "bank officer": 4,
+  "police": 4,
+  "legal action": 5,
+  "verify immediately": 4
+}
